@@ -28,8 +28,8 @@ Begrüsse freundliche den user und stell dich mit deinem Namen «ChatBob» vor u
 
 bot = Chatbot(
     database_file="database/chatbot.db", 
-    type_id="chatbot2",
-    user_id="chatbot2",
+    type_id="chatbotvarianteB",
+    user_id="chatbotvarianteB",
     type_name="Gedankensunterstützer",
     type_role=my_type_role,
     instance_context=my_instance_context,
